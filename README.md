@@ -25,4 +25,7 @@ backend of the mobile application for storage of app and user data.
 Firebase stores data in the JSON (JavaScript Object Notation) format.
 The firebase database has gained a lot of popularity due to numerous
 additional features such as reporting on user analytics data, crash reporting, firebase auth, and real time database thus making it the most
-appropriate database for this project
+appropriate database for this project.
+
+
+![System Architecture](https://user-images.githubusercontent.com/33176824/204032868-2980c1a6-4196-4d0b-898b-2a7795a53f71.JPG)
